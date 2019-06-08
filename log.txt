@@ -1,0 +1,3 @@
+Number of tweets posted by bot: 3
+Latest tweet: 我很喜欢电脑科学， 好棒！
+
