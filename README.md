@@ -16,6 +16,7 @@ To never forget to tweet for Mandarin class.
 5. Clone this repository to your computer <br>
 6. Navigate to the project directory <br>
 7. Run `python bot.py` in the terminal (or run from a development environment) <br> 
+8. [Keep the bot running](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library/#keeping-the-twitterbot-running) even when you close the terminal by using `nohup` 
 
 ### Adjustments
 * This program takes a set of pre-written tweets from input.txt, separated by a newline <br>
