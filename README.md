@@ -20,10 +20,13 @@ To never forget to tweet for Mandarin class.
 ### Adjustments
 * This program takes a set of pre-written tweets from input.txt, separated by a newline <br>
 * Enter desired tweets in **input.txt** <br>
-* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br> 
-Note: **tweet-from-terminal.py** is separate, and it simply allows for tweeting from the command line. <br>
-* Follow steps 1-7 in the start guide, adjustments are not relevant
+* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br>
+
+#### Note:
+**tweet-from-terminal.py** is separate, and it simply allows for tweeting from the command line. <br>
+* Follow steps 1-7 in the start guide, adjustments are not relevant (substitute **bot.py** for **tweet-from-terminal.py** in each step
 <br> <br>
+
 #### Some future improvement ideas: 
 1. Allow updates to **input.txt** while program is running
 2. Support image tweeting
