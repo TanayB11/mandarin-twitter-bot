@@ -18,9 +18,9 @@ To never forget to tweet for Mandarin class.
 8. [Keep the bot running](https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library/#keeping-the-twitterbot-running) even when you close the terminal by using `nohup` 
 
 ### Adjustments
-* This program takes a set of pre-written tweets from input.txt, separated by a newline <br>
+* This program takes a set of pre-written tweets from **input.txt**, separated by a newline <br>
 * Enter desired tweets in **input.txt** <br>
-* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br>
+* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br> <br>
 
 **tweet-from-terminal.py** is separate, and it simply allows for tweeting from the command line. <br>
 * Follow steps 1-7 in the start guide, adjustments are not relevant (substitute **bot.py** for **tweet-from-terminal.py** in each step <br>
