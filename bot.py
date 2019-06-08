@@ -30,6 +30,6 @@ for line in txt_lines:
     tweetText(line)
     updateLog(line)
     ctr+=1
-    time.sleep(5) # Sleep for one day
+    time.sleep(86400) # Sleep for one day
 
 # Suggestion for improvement: Add support for modified files using date of modification
