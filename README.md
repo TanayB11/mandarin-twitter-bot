@@ -23,7 +23,8 @@ To never forget to tweet for Mandarin class.
 * Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br> <br>
 
 **tweet-from-terminal.py** is separate from the main program, and it simply allows for tweeting from the command line. <br>
-* Follow steps 1-7 in the start guide, adjustments are not relevant (substitute **bot.py** for **tweet-from-terminal.py** in each step <br>
+* Follow steps 1-7 in the start guide, adjustments are not relevant (substitute **bot.py** for **tweet-from-terminal.py** in each step<br>
+* Important: Only works from console, does not work in terminal <br>
 <br>
 
 #### Some future improvement ideas: 
