@@ -20,8 +20,12 @@ To never forget to tweet for Mandarin class.
 ### Adjustments
 * This program takes a set of pre-written tweets from input.txt, separated by a newline <br>
 * Enter desired tweets in **input.txt** <br>
-* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br>
-
-
+* Go to **bot.py** and change `time.sleep()` in the for loop to your desired interval. The default is one tweet per 24hrs. <br> <br>
+#### Some future improvement ideas: 
+1. Allow updates to **input.txt** while program is running
+2. Support image tweeting
+3. If user has already tweeted today, don't have the bot tweet
+4. Use AI to get data from user tweets (or use a dataset) to generate original tweets that mimic the user
+<br>
 [Tweepy](http://www.tweepy.org) handles OAuth and Tweeting functionality. <br>
 Here are the [Tweepy Docs](https://tweepy.readthedocs.io/en/latest/api.html#API.home_timeline) <br>
