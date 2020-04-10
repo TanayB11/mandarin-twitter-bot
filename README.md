@@ -32,6 +32,8 @@ To never forget to tweet for Mandarin class.
 2. Support image tweeting
 3. If user has already tweeted today, don't have the bot tweet
 4. Use AI to get data from user tweets (or use a dataset) to generate original tweets that mimic the user
-<br>
-[Tweepy](http://www.tweepy.org) handles OAuth and Tweeting functionality. <br>
-Here are the [Tweepy Docs](https://tweepy.readthedocs.io/en/latest/api.html#API.home_timeline) <br>
+
+
+[Tweepy](http://www.tweepy.org) handles OAuth and Tweeting functionality.
+
+Here are the [Tweepy Docs](https://tweepy.readthedocs.io/en/latest/api.html#API.home_timeline)
